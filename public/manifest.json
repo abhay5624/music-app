@@ -1,5 +1,4 @@
 {
-  
   "theme_color" : "#f6b835",
   "background_color" : "#fff",
   "display" : "standalone",
@@ -11,12 +10,7 @@
   "lang": "en-Us",
   "orientation": "portrait-primary",
   "prefer_related_applications": true,
-  "related_applications": [
-    {
-      "platform": "play",
-      "id": "com.google.samples.apps.iosched"
-    }
-  ],
+  
 "icons": [
   {
     "src": "favicon.png",
