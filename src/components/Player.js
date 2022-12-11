@@ -15,6 +15,7 @@ const Player = ({
   setsonginfo,
   songs,
   setCurrentsong,
+  
   setSong,
 }) => {
   useEffect(() => {
