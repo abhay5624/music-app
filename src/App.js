@@ -11,6 +11,7 @@ function App() {
     currentTime: 0,
     duration: 0,
     animationPercentage: 0,
+    
   });
   const [songs, setSong] = useState(data());
   const [currentsong, setCurrentsong] = useState(songs[0]);

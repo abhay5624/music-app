@@ -39,6 +39,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=21649",
       color: ["#FFC896", "#71366C"],
       id: uuidv4(),
+      
       active: false,
     },
     {
