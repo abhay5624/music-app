@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# Waves
+This is my BCA 2nd year project. It is a music player P.w.a web app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## Installation
+To install the required modules type the command npm i
 
 ### `npm start`
 
